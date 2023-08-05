@@ -32,8 +32,8 @@ and this is a mobile version screenshot: ![](./design/mobile-screenshot.PNG)
 
 ### Links
 
-- Solution URL: [Add solution URL here]
-- Live Site URL: [Add live site URL here]
+- Solution URL: [https://github.com/Aleqsa123/result-summary]
+- Live Site URL: [https://aleqsa123.github.io/result-summary/]
 
 ## My process
 
