@@ -1,0 +1,106 @@
+@import url('https://fonts.googleapis.com/css2?family=Hanken+Grotesk:wght@500;700;800&display=swap');
+
+.maindiv {
+    max-width: 375px; 
+    height: 400px; 
+    font-family: 'Hanken Grotesk', sans-serif;
+    border-radius: 0px 0px 30px 30px;
+    padding: 1px;
+    background-image: linear-gradient(hsl(252, 100%, 67%), hsl(241, 81%, 54%));
+    margin: 0 auto;
+}
+
+h1 {
+    font-weight: 700;
+    font-size: 20px;
+    text-align: center;
+    color: hsl(241, 100%, 89%);
+    margin-top: 30px;
+}
+
+.circle {
+    max-width: 150px; 
+    height: 150px; 
+    box-sizing: border-box;
+    border-radius: 50%;
+    background-image: linear-gradient(hsla(256, 72%, 46%, 1), hsla(241, 72%, 46%, 0));
+    margin: 0 auto;
+    margin-top: 30px;
+    padding: 1px;
+}
+
+.div76 {
+    font-weight: 700;
+    font-size: 60px;
+    text-align: center;
+    color: hsl(0, 0%, 100%);
+    margin-top: 20px;
+}
+
+.of100{
+    font-weight: 800;
+    font-size: 18px;
+    text-align: center;
+    color: hsl(241, 100%, 80%);
+    margin-top: 0px;
+}
+
+h2 {
+    font-weight: 700;
+    font-size: 24px;
+    text-align: center;
+    color: hsl(0, 0%, 100%);
+    margin-top: 30px;
+    margin-bottom: 0px;
+}
+
+p {
+    font-weight: 500;
+    font-size: 18px;
+    text-align: center;
+    color: hsl(241, 100%, 80%);
+    margin: 10px 30px 0px 30px;
+}
+
+@media screen and (min-width: 1440px) {
+    .maindiv {
+        max-width: 455px;
+        height: 675px;
+        border-radius: 30px;
+    }
+    
+    h1 {
+        font-size: 32px;
+        margin-top: 50px;
+    }
+    
+    .circle {
+        max-width: 250px; 
+        height: 250px; 
+        margin-top: 50px;
+    }
+    
+    .div76 {
+        font-size: 100px;
+        margin-top: 40px;
+    }
+    
+    .of100{
+        font-weight: 800;
+        font-size: 24px;
+    }
+    
+    h2 {
+        font-size: 32px;
+        margin-top: 50px;
+    }
+    
+    p {
+        font-weight: 500;
+        font-size: 24px;
+        text-align: center;
+        color: hsl(241, 100%, 80%);
+        margin: 30px 50px 0px 50px;
+    }
+    
+}
